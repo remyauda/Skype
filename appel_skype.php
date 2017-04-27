@@ -15,12 +15,12 @@ https://support.skype.com/fr/faq/FA99/comment-puis-je-ajouter-les-boutons-contac
 https://www.skype.com/fr/developer/create-contactme-buttons/
 https://www.skype.com/en/developer/ -->
 
-<a href="skype:live:alexandre?call&video=true">
-<img width="150" height="150" alt="Appel Skype" style="border: none;"src="Alexandre.JPG">
+<a href="skype:live:someone?call&video=true">
+<img width="150" height="150" alt="Appel Skype" style="border: none;"src="someone.png">
 </a>
 <br/>
 <div class="Legende">
-Appeler Alexandre par Skype
+Appeler SomeOne par Skype
 </div>
 
 </body>
