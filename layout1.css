@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+a {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
+
+.Legende {
+	display: flex;
+	justify-content: center;
+}
